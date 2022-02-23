@@ -1,9 +1,4 @@
-{-
-	PP Project 2021
 
-	This is where you will write the implementation for the given tasks.
-	You can add other modules aswell.
--}
 {-# LANGUAGE ExistentialQuantification #-}
 {-# LANGUAGE FlexibleInstances #-}
 {-# LANGUAGE FlexibleContexts      #-}
