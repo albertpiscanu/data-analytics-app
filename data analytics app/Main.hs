@@ -1,12 +1,3 @@
-{-
-    PP Project 2021
-    
-    DO NOT MODIFY! This is used by the checker.
-    To run one test and check its output, load main.hs into ghci and use command:
-    run_test taskset_number task_number [subtask_number]
-        where subtask_number is used only for task_number 2
--}
-
 
 module Main where
 
